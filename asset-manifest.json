@@ -2,13 +2,13 @@
   "files": {
     "App.js": "/chaddemo/static/js/App.a8206ce3.chunk.js",
     "App.js.map": "/chaddemo/static/js/App.a8206ce3.chunk.js.map",
-    "homepage.js": "/chaddemo/static/js/homepage.e3e4b43a.chunk.js",
-    "homepage.js.map": "/chaddemo/static/js/homepage.e3e4b43a.chunk.js.map",
+    "homepage.js": "/chaddemo/static/js/homepage.73a018d7.chunk.js",
+    "homepage.js.map": "/chaddemo/static/js/homepage.73a018d7.chunk.js.map",
     "main.css": "/chaddemo/static/css/main.1ed97279.chunk.css",
     "main.js": "/chaddemo/static/js/main.7a4f3452.chunk.js",
     "main.js.map": "/chaddemo/static/js/main.7a4f3452.chunk.js.map",
-    "runtime-main.js": "/chaddemo/static/js/runtime-main.1a917aa5.js",
-    "runtime-main.js.map": "/chaddemo/static/js/runtime-main.1a917aa5.js.map",
+    "runtime-main.js": "/chaddemo/static/js/runtime-main.d50adca7.js",
+    "runtime-main.js.map": "/chaddemo/static/js/runtime-main.d50adca7.js.map",
     "static/js/4.e482d04b.chunk.js": "/chaddemo/static/js/4.e482d04b.chunk.js",
     "static/js/4.e482d04b.chunk.js.map": "/chaddemo/static/js/4.e482d04b.chunk.js.map",
     "static/js/5.1c8245ae.chunk.js": "/chaddemo/static/js/5.1c8245ae.chunk.js",
@@ -37,7 +37,7 @@
     "static/media/outline.png": "/chaddemo/static/media/outline.4fc83fc6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1a917aa5.js",
+    "static/js/runtime-main.d50adca7.js",
     "static/js/5.1c8245ae.chunk.js",
     "static/css/main.1ed97279.chunk.css",
     "static/js/main.7a4f3452.chunk.js"
